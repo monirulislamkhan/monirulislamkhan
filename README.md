@@ -63,8 +63,7 @@ https://www.layeredvastu.com
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monirulislamkhan&show_icons=true&theme=default" height="170"/>
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=monirulislamkhan&theme=default" height="170"/>
 </p>
 
