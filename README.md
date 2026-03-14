@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Monirul Islam Khan</h1>
 
-<h3 align="center">Senior Frontend Developer (UI & Design-Focused)</h3>
+<h3 align="center">Senior Frontend Developer | UI Specialist | React / Next.js | HTML • CSS • SCSS</h3>
 
 ---
 
@@ -15,7 +15,7 @@
 - 🎯 Specialized in responsive, pixel-perfect, and performance-friendly interfaces  
 - ⚛️ Hands-on experience with React.js and Next.js (Frontend Implementation)  
 - 🎨 Strong design-to-code workflow using Figma and Adobe XD  
-- 🌍 Delivered 200+ marketing websites and large-scale real estate platforms  
+- 🌍 Delivered 200+ marketing microsite and large-scale real estate platforms  
 
 ---
 
