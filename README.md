@@ -12,7 +12,7 @@
 
 ## About me
 
-- 15+ years building web interfaces — hands-on with HTML and CSS since 2011
+- 15+ years building web interfaces - hands-on with HTML and CSS since 2011
 - Cut page load time by 40% and took Lighthouse performance from 62 to 95 on production real-estate sites
 - Built and maintained 200+ marketing and real-estate microsites
 - Convert Figma designs into pixel-accurate, responsive pages
@@ -47,13 +47,13 @@
 
 ## Featured projects
 
-**[Dubai Housing](https://www.dubaihousing-ae.com)** — real-estate platform with around 2,500 URLs on React.js/Next.js.
+**[Dubai Housing](https://www.dubaihousing-ae.com)** - real-estate platform with around 2,500 URLs on React.js/Next.js.
 Responsive UI in Tailwind CSS with Swiper sliders; schema.org, Open Graph, and Twitter Card markup for search and social previews. Lighthouse performance: 95.
 
-**[HCO Real Estates](https://www.hcorealestates.com)** — real-estate site on React.js/Next.js.
+**[HCO Real Estates](https://www.hcorealestates.com)** - real-estate site on React.js/Next.js.
 UI built as a set of reusable components in Bootstrap and SCSS Modules, with Swiper sliders and icons from Font Awesome and Lucide.
 
-**[Layered Vastu](https://www.layeredvastu.com)** — services website on React.js/Next.js.
+**[Layered Vastu](https://www.layeredvastu.com)** - services website on React.js/Next.js.
 Complete UI build in SCSS Modules, including the search and social markup.
 
 ## Currently
